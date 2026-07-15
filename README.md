@@ -1,5 +1,5 @@
 # No License
-This is a dictionary for a mobile game.  It _contains_ the following word list among numerous other words, but the word list hosted in this repo (all_words.txt) is **NOT** subject to the same license terms and **may not be used for any other purpose without permission**.
+This is a dictionary for a mobile game.  It _contains_ the following word list among numerous other words, but the word list hosted in this repo (allwords.txt) is **NOT** subject to the same license terms and **may not be used for any other purpose without permission**.
 
 > https://github.com/jesstess/Scrabble/tree/master?tab=MIT-1-ov-file<br>
 > The MIT License (MIT)<br>
@@ -8,7 +8,7 @@ This is a dictionary for a mobile game.  It _contains_ the following word list a
 © 2026 Robot Sharks.  All rights reserved.
 
 ### Proprietary Data Notice
-The data contained in 'all_words.txt' and 'dict_version.json' is proprietary 
+The data contained in 'allwords.txt' and 'dict_version.json' is proprietary 
 intellectual property and is published here solely for hosting purposes 
 for the mobile game 'OneWord'. 
 
